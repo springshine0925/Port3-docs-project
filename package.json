@@ -1,0 +1,19 @@
+{
+  "name": "port3-docs",
+  "version": "0.0.1",
+  "description": "Port3 Docs",
+  "main": "index.js",
+  "authors": {
+    "name": "Anthonyx",
+    "email": "anthonyx@port3.io"
+  },
+  "repository": "https://github.com/Port3-Network/port3-docs.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
